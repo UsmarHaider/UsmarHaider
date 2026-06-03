@@ -54,7 +54,7 @@
 
 <div align="center">
 
-[![100 Days of ML](https://github-readme-stats.vercel.app/api/pin/?username=UsmarHaider&repo=100-days-of-ml-projects&theme=tokyonight)](https://github.com/UsmarHaider/100-days-of-ml-projects)
+[![100 Days of ML](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=UsmarHaider&repo=100-days-of-ml-projects&theme=tokyonight)](https://github.com/UsmarHaider/100-days-of-ml-projects)
 
 *One project a day: Computer Vision · NLP · Machine Learning — full reports, real metrics, runnable notebooks.*
 
@@ -64,12 +64,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=usmarhaider&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmarhaider&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=usmarhaider&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=usmarhaider&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=usmarhaider&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=usmarhaider&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=usmarhaider&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
 
 </div>
 
