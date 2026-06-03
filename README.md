@@ -88,6 +88,12 @@ Every day I publish a complete, documented data science project — notebook, da
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=usmarhaider&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution graph" />
 
+<br/><br/>
+
+<b>🗓 A year of shipping — public + private work</b>
+<br/><br/>
+<img width="95%" src="https://ghchart.rshah.org/36bcf7/usmarhaider" alt="Yearly contribution heatmap" />
+
 </div>
 
 ## 💭 Dev Quote
