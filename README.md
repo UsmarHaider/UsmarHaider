@@ -82,7 +82,7 @@ Every day I publish a complete, documented data science project — notebook, da
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=usmarhaider&background=0d1117&ring=58a6ff&fire=1f6feb&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&border=30363d" alt="GitHub streak" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=usmarhaider&background=0d1117&ring=58a6ff&fire=1f6feb&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&border=30363d" alt="GitHub streak" />
 
 <br/><br/>
 
