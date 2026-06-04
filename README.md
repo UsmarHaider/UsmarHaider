@@ -40,34 +40,6 @@ class UsmarHaider:
 | **Masters in Artificial Intelligence** | LUMS, Lahore | 2026 |
 | **Bachelors in Data Science** | FAST NUCES, Lahore | 2024 |
 
-## 💼 Experience
-
-### Senior AI Engineer · Eye4Tech <sub>September 2023 – June 2025</sub>
-
-**🧠 HAI Chatbot — Humanop Quantum Psychology**
-- AI-driven module generating personalized plans from user assessments
-- Built a RAG-into-RAG system with FAISS for efficient query response, with admin feedback integration
-- FAISS vector databases on AWS S3 with automatic updates on new data
-- File-management API for deleting specific files from S3 buckets
-- Multi-file search in FastAPI — retrieve & compare embeddings across documents with similarity scores and source-file info
-
-**💬 Sales AI Chatbot**
-- Classifies user queries into general vs. data-related categories
-- Data queries → ML + information-retrieval pipeline feeds relevant data to the LLM; general queries → answered from an S3 knowledge base
-- Multi-vendor support with real-time data updates and embeddings for accurate, up-to-date responses
-
-**📱 WhatsApp Chatbot with RAG**
-- Twilio API integration for real-time WhatsApp communication
-- RAG pipeline on Pinecone + AWS S3 for context-aware responses
-- MongoDB for chat storage, retrieval, and per-user conversation history
-- Multi-vendor query support with automatic embedding updates for scalability
-
-### Junior Data Analyst · BornGreat (USA) <sub>September 2022 – March 2023</sub>
-
-- Scraped Instagram, Facebook, Reddit & Twitter for real-time competitor and market-trend insights
-- Analyzed competitor strengths, weaknesses, and performance gaps to surface opportunities
-- Applied NLP & sentiment analysis to track public opinion in real time — improving customer engagement and campaign effectiveness
-
 ## 🏆 Hackathon Wins
 
 **🥈 2nd Place — Transcend AI Hackathon (Pakistan-wide) · NETSOL Technologies**
