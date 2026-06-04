@@ -1,12 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0d1117,50:1f6feb,100:0d1117&text=Usmar%20Haider&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%C2%B7%20ML%20Engineer%20%C2%B7%20Generative%20AI&descSize=18&descAlignY=55" alt="banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0d1117,50:1f6feb,100:0d1117&text=Usmar%20Haider&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20AI%20Engineer%20%C2%B7%20ML%20%C2%B7%20Generative%20AI&descSize=18&descAlignY=55" alt="banner" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Shipping+one+ML+project+every+day;Computer+Vision+%C2%B7+NLP+%C2%B7+Machine+Learning;LLMs+%C2%B7+RAG+%C2%B7+Fine-tuning+%C2%B7+MLOps;Turning+data+into+decisions" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+100+AI%2FML+Projects+in+public;Computer+Vision+%C2%B7+NLP+%C2%B7+Machine+Learning;LLMs+%C2%B7+RAG+%C2%B7+Fine-tuning+%C2%B7+AI+Agents;Turning+data+into+decisions" alt="Typing intro" />
 
 <br/>
 
-<a href="https://www.linkedin.com/in/usmar-haider-a86825208/"><img src="https://img.shields.io/badge/LinkedIn-Connect-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/usmarhaider/"><img src="https://img.shields.io/badge/LinkedIn-Connect-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
 &nbsp;
 <a href="mailto:officialusmarhaider@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-1f6feb?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /></a>
 &nbsp;
@@ -22,37 +22,124 @@
 
 ```python
 class UsmarHaider:
-    role      = "Data Scientist | ML Engineer"
-    location  = "Pakistan"
-    current   = "100 Days of ML — one end-to-end project, every single day"
-    learning  = ["MLOps", "LLM fine-tuning", "RAG systems", "AI Agents"]
-    focus     = ["Computer Vision", "NLP", "Generative AI", "Data Analytics"]
-    motto     = "Learn by building. Ship daily."
+    role      = "Senior AI Engineer"
+    location  = "Lahore, Pakistan"
+    education = ["BS Data Science — FAST NUCES (2024)", "MS AI — LUMS (2026)"]
+    current   = "100 AI/ML Projects — building end-to-end projects in public"
+    focus     = ["LLMs & RAG", "AI Agents", "Computer Vision", "NLP", "MLOps"]
+    motto     = "Learn by building. Ship relentlessly."
 
     def reach_me(self) -> str:
         return "officialusmarhaider@gmail.com"
 ```
 
-## 🚀 100 Days of ML — Building in Public
+## 🎓 Education
+
+| Degree | Institution | Year |
+|---|---|---|
+| **Masters in Artificial Intelligence** | LUMS, Lahore | 2026 |
+| **Bachelors in Data Science** | FAST NUCES, Lahore | 2024 |
+
+## 💼 Experience
+
+### Senior AI Engineer · Eye4Tech <sub>September 2023 – June 2025</sub>
+
+**🧠 HAI Chatbot — Humanop Quantum Psychology**
+- AI-driven module generating personalized plans from user assessments
+- Built a RAG-into-RAG system with FAISS for efficient query response, with admin feedback integration
+- FAISS vector databases on AWS S3 with automatic updates on new data
+- File-management API for deleting specific files from S3 buckets
+- Multi-file search in FastAPI — retrieve & compare embeddings across documents with similarity scores and source-file info
+
+**💬 Sales AI Chatbot**
+- Classifies user queries into general vs. data-related categories
+- Data queries → ML + information-retrieval pipeline feeds relevant data to the LLM; general queries → answered from an S3 knowledge base
+- Multi-vendor support with real-time data updates and embeddings for accurate, up-to-date responses
+
+**📱 WhatsApp Chatbot with RAG**
+- Twilio API integration for real-time WhatsApp communication
+- RAG pipeline on Pinecone + AWS S3 for context-aware responses
+- MongoDB for chat storage, retrieval, and per-user conversation history
+- Multi-vendor query support with automatic embedding updates for scalability
+
+### Junior Data Analyst · BornGreat (USA) <sub>September 2022 – March 2023</sub>
+
+- Scraped Instagram, Facebook, Reddit & Twitter for real-time competitor and market-trend insights
+- Analyzed competitor strengths, weaknesses, and performance gaps to surface opportunities
+- Applied NLP & sentiment analysis to track public opinion in real time — improving customer engagement and campaign effectiveness
+
+## 🏆 Hackathon Wins
+
+**🥈 2nd Place — Transcend AI Hackathon (Pakistan-wide) · NETSOL Technologies**
+*FARM.AI — AI-powered agriculture assistant*
+- Trained AlexNet on 36 plant-disease labels for detection
+- Weather API for real-time climate insights + web agents fetching live vegetable prices
+- Personalized agri-doctor recommendations and a multilingual chatbot for farmers
+
+**🥈 2nd Place — /execute: AI Genesis Hackathon (Global, Dubai 2025) · Team NGRAM**
+*HealthSync.AI — AI-powered medical assistant*
+- Multi-agent medical assistant built on LLMs and AI tools
+- Fine-tuned Mistral 7B to analyze blood reports and answer health queries
+- Agents for hospital location, doctor appointment booking, and skin-disease detection
+- Contextual, image-based, and location-aware healthcare support
+
+**🥉 3rd Place — Traversaal x Optimized AI Global Hackathon 2025 · Solo (NGRAM)**
+*Blood.AI — intelligent blood-health assistant*
+- AI agent answering medical queries related to blood
+- Web-scraping + embedding pipeline from user-provided links for contextual Q&A
+- Two ML models: blood-disease prediction and blood-type classification
+- Agents to locate nearby hospitals and blood-donor organizations
+
+## 🚀 100 AI/ML Projects — Building in Public
 
 <div align="center">
 
-<a href="https://github.com/UsmarHaider/100-days-of-ml-projects">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=UsmarHaider&repo=100-days-of-ml-projects&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="100 Days of ML Projects" />
+<a href="https://github.com/UsmarHaider/100-ai-ml-projects">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=UsmarHaider&repo=100-ai-ml-projects&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="100 AI/ML Projects" />
 </a>
 
 </div>
 
-Every day I publish a complete, documented data science project — notebook, dataset, and a full report with real metrics.
+Complete, documented data science projects — notebook, dataset, and a full report with real metrics.
 
 | | Project | Domain |
 |---|---|---|
-| 🖼 | [MNIST Handwritten Digit Classification](https://github.com/UsmarHaider/100-days-of-ml-projects/tree/main/projects/001-mnist-digit-classification) | Computer Vision · PyTorch |
-| 📝 | [IMDB Movie Review Sentiment Analysis](https://github.com/UsmarHaider/100-days-of-ml-projects/tree/main/projects/002-imdb-sentiment-analysis) | NLP · Sentiment |
-| 📊 | [Titanic Survival Prediction](https://github.com/UsmarHaider/100-days-of-ml-projects/tree/main/projects/003-titanic-survival-prediction) | Classic ML |
-| 🐦 | [Twitter Sentiment Analysis](https://github.com/UsmarHaider/100-days-of-ml-projects/tree/main/projects/005-twitter-sentiment-analysis) | NLP · Transformers |
+| 🖼 | [MNIST Handwritten Digit Classification](https://github.com/UsmarHaider/100-ai-ml-projects/tree/main/projects/001-mnist-digit-classification) | Computer Vision · PyTorch |
+| 📝 | [IMDB Movie Review Sentiment Analysis](https://github.com/UsmarHaider/100-ai-ml-projects/tree/main/projects/002-imdb-sentiment-analysis) | NLP · Sentiment |
+| 🏠 | [House Price Prediction](https://github.com/UsmarHaider/100-ai-ml-projects/tree/main/projects/006-house-price-prediction) | Regression |
+| 💳 | [Credit Card Fraud Detection](https://github.com/UsmarHaider/100-ai-ml-projects/tree/main/projects/009-credit-card-fraud-detection) | Imbalanced ML |
+| 🐱 | [Cats vs Dogs Classification](https://github.com/UsmarHaider/100-ai-ml-projects/tree/main/projects/010-cats-vs-dogs-classification) | Computer Vision · CNN |
 
-<div align="center"><i>⭐ Star the repo and watch it grow to 100 — a new project drops daily.</i></div>
+<div align="center"><i>⭐ Star the repo and watch it grow to 100.</i></div>
+
+## 🛠 Featured Projects
+
+**🏥 Real-time Healthcare Appointment System**
+- Voice-enabled AI appointment booking over WebSockets with GPT-powered conversational agents
+- Database-backed physician availability & slot management, automated email confirmations/cancellations
+- Voice-to-voice interface — patients book appointments via phone calls; custom tools for basic health guidance
+
+**📚 Automated Student Summary Evaluation** · FAST Lahore <sub>Sep 2023 – May 2024</sub>
+- Built a dataset combining ADHD and neurotypical student data
+- BERT & DeBERTa models classify summaries and generate actionable feedback to improve learning outcomes
+
+**🤟 Hand Sign Detection (Live Camera)**
+- Real-time sign-language → text translation using computer vision, improving accessibility for non-verbal communication
+
+**⚙️ MLOps — Customer Satisfaction** <sub>Dec 2023 – Jan 2024</sub>
+- MLOps practices for efficient model deployment and streamlined ML pipelines
+
+## 📜 Certifications
+
+- **Claude Code: A Highly Agentic Coding Assistant** — Anthropic (2025)
+- **Web Scraping** — freeCodeCamp.org (2023)
+- **Joining Data with Pandas** — DataCamp (2022)
+- **Data Manipulation with Pandas** — DataCamp (2022)
+
+## 🤝 Involvement
+
+- **Extended Exec** — CBS, FAST Lahore (Feb 2023 – May 2024)
+- **Reception Head** — SOFTEC, FAST Lahore (May 2022 – Jan 2023)
 
 ## Tech Stack
 
@@ -60,16 +147,16 @@ Every day I publish a complete, documented data science project — notebook, da
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,pandas&perline=6&theme=dark" alt="ML stack" />
 <br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,mysql,vscode&perline=6&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,mysql,mongodb,fastapi,vscode&perline=8&theme=dark" alt="Tools" />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Hugging%20Face-Transformers-1f6feb?style=flat-square&labelColor=0d1117" alt="Hugging Face" />
 <img src="https://img.shields.io/badge/LangChain-Agents%20%26%20RAG-1f6feb?style=flat-square&labelColor=0d1117" alt="LangChain" />
-<img src="https://img.shields.io/badge/NumPy-Scientific%20Computing-1f6feb?style=flat-square&labelColor=0d1117" alt="NumPy" />
-<img src="https://img.shields.io/badge/Seaborn-Visualization-1f6feb?style=flat-square&labelColor=0d1117" alt="Seaborn" />
+<img src="https://img.shields.io/badge/FAISS-Vector%20Search-1f6feb?style=flat-square&labelColor=0d1117" alt="FAISS" />
+<img src="https://img.shields.io/badge/Pinecone-Vector%20DB-1f6feb?style=flat-square&labelColor=0d1117" alt="Pinecone" />
+<img src="https://img.shields.io/badge/Twilio-WhatsApp%20API-1f6feb?style=flat-square&labelColor=0d1117" alt="Twilio" />
 <img src="https://img.shields.io/badge/Jupyter-Notebooks-1f6feb?style=flat-square&labelColor=0d1117" alt="Jupyter" />
-<img src="https://img.shields.io/badge/Postman-APIs-1f6feb?style=flat-square&labelColor=0d1117" alt="Postman" />
 
 </div>
 
