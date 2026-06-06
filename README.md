@@ -74,44 +74,12 @@ class UsmarHaider:
 
 Complete, documented data science projects — notebook, dataset, and a full report with real metrics.
 
-| | Project | Domain |
-|---|---|---|
-| 🖼 | [MNIST Handwritten Digit Classification](https://github.com/UsmarHaider/100-ai-ml-projects/tree/main/projects/001-mnist-digit-classification) | Computer Vision · PyTorch |
-| 📝 | [IMDB Movie Review Sentiment Analysis](https://github.com/UsmarHaider/100-ai-ml-projects/tree/main/projects/002-imdb-sentiment-analysis) | NLP · Sentiment |
-| 🏠 | [House Price Prediction](https://github.com/UsmarHaider/100-ai-ml-projects/tree/main/projects/006-house-price-prediction) | Regression |
-| 💳 | [Credit Card Fraud Detection](https://github.com/UsmarHaider/100-ai-ml-projects/tree/main/projects/009-credit-card-fraud-detection) | Imbalanced ML |
-| 🐱 | [Cats vs Dogs Classification](https://github.com/UsmarHaider/100-ai-ml-projects/tree/main/projects/010-cats-vs-dogs-classification) | Computer Vision · CNN |
-
-<div align="center"><i>⭐ Star the repo and watch it grow to 100.</i></div>
-
-## 🛠 Featured Projects
-
-**🏥 Real-time Healthcare Appointment System**
-- Voice-enabled AI appointment booking over WebSockets with GPT-powered conversational agents
-- Database-backed physician availability & slot management, automated email confirmations/cancellations
-- Voice-to-voice interface — patients book appointments via phone calls; custom tools for basic health guidance
-
-**📚 Automated Student Summary Evaluation** · FAST Lahore <sub>Sep 2023 – May 2024</sub>
-- Built a dataset combining ADHD and neurotypical student data
-- BERT & DeBERTa models classify summaries and generate actionable feedback to improve learning outcomes
-
-**🤟 Hand Sign Detection (Live Camera)**
-- Real-time sign-language → text translation using computer vision, improving accessibility for non-verbal communication
-
-**⚙️ MLOps — Customer Satisfaction** <sub>Dec 2023 – Jan 2024</sub>
-- MLOps practices for efficient model deployment and streamlined ML pipelines
-
 ## 📜 Certifications
 
 - **Claude Code: A Highly Agentic Coding Assistant** — Anthropic (2025)
 - **Web Scraping** — freeCodeCamp.org (2023)
 - **Joining Data with Pandas** — DataCamp (2022)
 - **Data Manipulation with Pandas** — DataCamp (2022)
-
-## 🤝 Involvement
-
-- **Extended Exec** — CBS, FAST Lahore (Feb 2023 – May 2024)
-- **Reception Head** — SOFTEC, FAST Lahore (May 2022 – Jan 2023)
 
 ## Tech Stack
 
