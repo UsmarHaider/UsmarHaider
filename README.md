@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+100+AI%2FML+Projects+in+public;Computer+Vision+%C2%B7+NLP+%C2%B7+Machine+Learning;LLMs+%C2%B7+RAG+%C2%B7+Fine-tuning+%C2%B7+AI+Agents;Turning+data+into+decisions" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Curating+100+of+Kaggle's+best+AI%2FML+projects;Computer+Vision+%C2%B7+NLP+%C2%B7+Machine+Learning;LLMs+%C2%B7+RAG+%C2%B7+Fine-tuning+%C2%B7+AI+Agents;Turning+data+into+decisions" alt="Typing intro" />
 
 <br/>
 
@@ -25,9 +25,9 @@ class UsmarHaider:
     role      = "Senior AI Engineer"
     location  = "Lahore, Pakistan"
     education = ["BS Data Science — FAST NUCES (2024)", "MS AI — LUMS (2026)"]
-    current   = "100 AI/ML Projects — building end-to-end projects in public"
+    current   = "100 AI/ML Projects — curating Kaggle's best work, end to end"
     focus     = ["LLMs & RAG", "AI Agents", "Computer Vision", "NLP", "MLOps"]
-    motto     = "Learn by building. Ship relentlessly."
+    motto     = "Learn from the best. Ship relentlessly."
 
     def reach_me(self) -> str:
         return "officialusmarhaider@gmail.com"
@@ -62,7 +62,7 @@ class UsmarHaider:
 - Two ML models: blood-disease prediction and blood-type classification
 - Agents to locate nearby hospitals and blood-donor organizations
 
-## 🚀 100 AI/ML Projects — Building in Public
+## 🚀 100 AI/ML Projects — Curated from Kaggle's Best
 
 <div align="center">
 
@@ -72,7 +72,7 @@ class UsmarHaider:
 
 </div>
 
-Complete, documented data science projects — notebook, dataset, and a full report with real metrics.
+A growing collection of the best data science projects on Kaggle — each one adapted from a top-voted kernel (with full credit to the original author), packaged as a runnable notebook, dataset, and a complete report with real metrics.
 
 ## 📜 Certifications
 
